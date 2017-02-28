@@ -1,0 +1,3 @@
+Title
+Author
+Article text. Could be bigger, but that's ok.
